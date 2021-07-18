@@ -30,6 +30,3 @@ Enter password: Password
 
 
 THIS IS IN NO WAY part of Molekule. its just a project I have done in my free time
-=======
-BETA STILL WORKING ON DOCS AND MAKING IT BETTER BE PATIENT BUT STILL FEEL FREE TO TEST
->>>>>>> parent of dba0650 (Update README.md)
