@@ -24,7 +24,7 @@ Enter email: Email
 Valid Email
 Enter password: Password
 ```
-> Expect a large character string (thats your access token being prited out for debugging)
+> Expect a large character string (thats your access token being printed out for debugging)
 > Expect some text in JSON format (Should show your vairous Molekule Products)
 # then you can type things such as set fan speed, turn off, turn on , and exit (Case Sensitive at least right now)
 
