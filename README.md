@@ -14,7 +14,7 @@ import re
 ```
 then download or clone this repository and run the `python-molekule-api-example.py` [here](./python-molekule-api-example.py)
 
-<<<<<<< HEAD
+
 BETA STILL WORKING ON DOCS AND MAKING IT BETTER BE PATIENT BUT STILL FEEL FREE TO TEST, still basically CLI based
 
 ```shell
