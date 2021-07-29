@@ -22,7 +22,7 @@ def set_headers(access_token):
         'user-agent': 'Molekule/3.1.3 (com.molekule.ios; build:1167; iOS 14.0.0) Alamofire/4.9.1',
         'Date': date.today().strftime("%a, %d %b %Y %H:%M:%S GMT")
     }
-
+    print(headers)
 def check_user_email():
     regex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
     Attempts = 0
@@ -167,3 +167,4 @@ while True:
                             data=json.dumps(PowerStatusBody), verify=True)
     if (OptionSelection == "exit"):
         exit()
+    
