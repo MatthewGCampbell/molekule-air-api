@@ -1,4 +1,6 @@
 # molekule-air-api
+Molekule Air API
+A Example of how to control a molekule air purifier using python
 Currently Testing with the Molekule IOS App, the authorization for their API seems to be AWS Cognito
 
 ## make sure you have theses libraries 
